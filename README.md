@@ -2,7 +2,7 @@
 
 A powerful, serverless HR tool for collecting 360-degree feedback directly in Slack. Built with **Google Apps Script** and **Google Sheets** as a database.
 
-![Приклад роботи бота, стартовий меседж для респондента]([https://via.placeholder.com/800x400?text=Insert+Screenshot+Here](https://github.com/IhorFedorov/360-feedback-slack-bot/blob/main/bot-start-screen.png)) 
+![Приклад роботи бота, стартовий меседж для респондента]([bot-start-screen.png)) 
 
 
 ## ✨ Key Features
