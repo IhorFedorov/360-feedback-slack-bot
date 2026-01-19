@@ -61,14 +61,7 @@ A powerful, serverless HR tool for collecting 360-degree feedback directly in Sl
 
 ## 📸 Screenshots
 
-### Request & Snooze Options
-*(Insert screenshot of the bot message with "Snooze" buttons)*
-
-### Admin Report in Slack
-*(Insert screenshot of the "Status" card with stats)*
-
-### Gmail Summary Draft
-*(Insert screenshot of the generated email)*
+![Драфт листа](email-draft.png)
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit Pull Requests.
